@@ -1,0 +1,18 @@
+body {
+    background-color: #F5ECE1; /* Light sepia background color */
+    color: #3C2F27; /* Dark brown text color */
+}
+button {
+    background-color: #D1BFA8; /* Light brown button background */
+    color: #3C2F27; /* Dark brown text color */
+    border: 2px solid #3C2F27; /* Dark brown border */
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #B39B84; /* Darker brown on hover */
+    border-color: #B39B84; /* Darker brown border on hover */
+}
